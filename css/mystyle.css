@@ -1,0 +1,9 @@
+.main-gradient{
+    background: linear-gradient(45deg, #426174 0%, #2b3847 100%);
+    width: 100%;
+    min-height: 100vh;
+}
+
+#bg-transparent{
+    background: transparent;
+}
